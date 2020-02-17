@@ -3,6 +3,8 @@
 .project
 .settings/
 
+bin/
+
 # Intellij
 .idea
 *.iws
