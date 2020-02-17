@@ -1,0 +1,6 @@
+nutella#Name: NUTELLA FERRERO WITH BREADSTICKS, UPC: 009800800124/Group: Branded Food Products Database/Ndbno: 45081187/Manufacturer: none
+nutella#Name: BON APPE, NUTELLA, SWIRL COOKIES, UPC: 773479072709/Group: Branded Food Products Database/Ndbno: 45146122/Manufacturer: none
+nutella#Name: FERERRO, NUTELLA, B-READY FILLED WAFER BARS, UPC: 009800600106/Group: Branded Food Products Database/Ndbno: 45150576/Manufacturer: Ferrero U.S.A., Incorporated
+nutella#Name: FERRERO, NUTELLA, HAZELNUT SPREAD WITH COCOA, UPC: 009800895007/Group: Branded Food Products Database/Ndbno: 45061538/Manufacturer: Ferrero U.S.A., Incorporated
+nutella#Name: FERRERO, NUTELLA, HAZELNUT SPREAD WITH COCOA MINI CUPS, UPC: 009800801107/Group: Branded Food Products Database/Ndbno: 45099743/Manufacturer: Ferrero U.S.A., Incorporated
+nutella#Name: BON APPE, NUTELLA, GOURMET FUDGE BROWNIE, UPC: 773479772609/Group: Branded Food Products Database/Ndbno: 45179742/Manufacturer: none
